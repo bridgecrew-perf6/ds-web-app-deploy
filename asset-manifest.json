@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.4e769d9f.chunk.css",
-    "main.js": "/static/js/main.472a7efd.chunk.js",
-    "main.js.map": "/static/js/main.472a7efd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f2380842.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f2380842.js.map",
-    "static/js/2.bbec792f.chunk.js": "/static/js/2.bbec792f.chunk.js",
-    "static/js/2.bbec792f.chunk.js.map": "/static/js/2.bbec792f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.4e769d9f.chunk.css.map": "/static/css/main.4e769d9f.chunk.css.map",
-    "static/js/2.bbec792f.chunk.js.LICENSE.txt": "/static/js/2.bbec792f.chunk.js.LICENSE.txt"
+    "main.css": "/ds-web-app-deploy/static/css/main.4e769d9f.chunk.css",
+    "main.js": "/ds-web-app-deploy/static/js/main.472a7efd.chunk.js",
+    "main.js.map": "/ds-web-app-deploy/static/js/main.472a7efd.chunk.js.map",
+    "runtime-main.js": "/ds-web-app-deploy/static/js/runtime-main.2e6adf51.js",
+    "runtime-main.js.map": "/ds-web-app-deploy/static/js/runtime-main.2e6adf51.js.map",
+    "static/js/2.bbec792f.chunk.js": "/ds-web-app-deploy/static/js/2.bbec792f.chunk.js",
+    "static/js/2.bbec792f.chunk.js.map": "/ds-web-app-deploy/static/js/2.bbec792f.chunk.js.map",
+    "index.html": "/ds-web-app-deploy/index.html",
+    "static/css/main.4e769d9f.chunk.css.map": "/ds-web-app-deploy/static/css/main.4e769d9f.chunk.css.map",
+    "static/js/2.bbec792f.chunk.js.LICENSE.txt": "/ds-web-app-deploy/static/js/2.bbec792f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f2380842.js",
+    "static/js/runtime-main.2e6adf51.js",
     "static/js/2.bbec792f.chunk.js",
     "static/css/main.4e769d9f.chunk.css",
     "static/js/main.472a7efd.chunk.js"
